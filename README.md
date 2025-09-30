@@ -16,10 +16,10 @@ This project can be extended for real-world applications such as email spam dete
 
 Required Libraries:
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.model_selection import train_test_split.
+from sklearn.feature_extraction.text import TfidfVectorizer.
+from sklearn.ensemble import RandomForestClassifier.
+from sklearn.metrics import accuracy_score, classification_report.
 
 Sample Dataset:
 data = {
@@ -33,7 +33,7 @@ data = {
 }
 This dataset contains a mix of spam and ham messages to demonstrate the workflow.
 
-Workflow / Usage
+Workflow / Usage:
 
 Load the dataset as a Pandas DataFrame.
 
